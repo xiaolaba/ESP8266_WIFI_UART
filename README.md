@@ -2,6 +2,11 @@
 clone https://atadiat.com/en/e-esp8266-esp32-wifi-serial-bridge-converter/  
 Serial Bridge Using ESP8266 (Simpler)  
 
+### hardware ESP-S or ESP-12S  
+[esp-12s_product_specification_en.pdf](esp-12s_product_specification_en.pdf)  
+![ESP-S_ESP-12S_module.JPG](ESP-S_ESP-12S_module.JPG)  
+
+
 ### tweak a little bit to source code
 debug baud rate changed to 115200  
 dummy testing string "n\xiaolaba\n"  
