@@ -20,6 +20,7 @@ type something and send
 
 ### firmware and burn
 burn.bat  
+note : if not to use arduino IDE to burn firnware, close serial port monitor first before uses this BAT file to burn the firmware, otherwise port access failure and no code to be burned.  
 ```
 :: by xiaolaba, 2022-JAN-20  
 
